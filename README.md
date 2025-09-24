@@ -1,5 +1,11 @@
 # Image-Processing-Project-1
 
+## Contributors
+
+- [Mae](https://github.com/cadrianmae)
+- [Noura](https://github.com/nrn5)
+- [Seán]()
+
 ## Prerequisites
 
 - Python 3.13.7 or higher
