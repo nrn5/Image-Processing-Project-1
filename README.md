@@ -7,6 +7,7 @@
 - virtualenv (recommended)
 - Git (for cloning the repository)
 - Git-LFS (for handling large files)
+  <https://git-lfs.com/>
 
 ## Build Instructions
 
@@ -25,4 +26,3 @@
    ```bash
     pip install -r requirements.txt
     ```
-5. Download the dataset using Git-LFS:
